@@ -1,7 +1,9 @@
-Author: Andy Hawkins
-Email: YW5keUBhOTA0Z3V5LmNvbQ==
-Facebook: http://fb.me/andyhawkins
-HackerNews: http://hackerne.ws/user?id=a904guy
+**Author**: Andy Hawkins  
+**Email**: YW5keUBhOTA0Z3V5LmNvbQ==  
+**About**: http://a904guy.com/  
+**Facebook**: http://fb.me/andyhawkins  
+**HackerNews**: http://hackerne.ws/user?id=a904guy  
+
  
 This file will allow you to create a project that will create global functions that allow you to instantly access and singleton classes from their class name
  
