@@ -4,10 +4,11 @@
 **Facebook**: http://fb.me/andyhawkins  
 **HackerNews**: http://hackerne.ws/user?id=a904guy  
 
+**Disclaimer Linux Only**
  
-This file will allow you to create a project that will create global functions that allow you to instantly access and singleton classes from their class name
+This file will allow you to create a project that will create global functions that allow you to instantly access an singleton classes from their class name
  
-In the variables below I've defined a project folder called '/myproject/', and inside that folder there is an 'obj/' folder which contains your classes:
+In the examples below I've defined a project folder called '/myproject/', and inside that folder there is an 'obj/' folder which contains your classes:
  
 	/myproject/obj/
         	       db.class.php
@@ -32,6 +33,9 @@ You can even pass constructor variables to these functions to create the singlet
  
 	db('mysql')
 	db('sqlite')
+	cache('memcache')
+	cache('file')
+	cache('redis')
  
 Will return their respective classes initialized using the supplied variables. 
 
